@@ -1,0 +1,17 @@
+2024. 8 17. Preprocessing with pandas
+
+A. datasets 
+1. covid data
+url:'https://gist.githubusercontent.com/aakashns/f6a004fa20c84fec53262f9a8bfee775/raw/f309558b1cf5103424cef58e2ecb8704dcd4d74c/italy-covid-daywise.csv'
+filename: 'italy-covid-daywise.csv'
+
+2. location data
+url:'https://gist.githubusercontent.com/aakashns/8684589ef4f266116cdce023377fc9c8/raw/99ce3826b2a9d1e6d0bde7e9e559fc8b6e9ac88b/locations.csv'
+filename: 'locations.csv'
+    
+
+B. Preprocessing
+1. Pandas - basic/ mask(boolian)/ creation of new columns/ drop/sort/ outliers
+2. Working with date- groupby analysis
+3. Merging data - save to csv file
+4. Pandas plot -set_index
